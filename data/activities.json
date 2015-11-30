@@ -1,0 +1,41 @@
+[
+	{
+		"name": "Rangoli",
+		"sdesc": "The Scrap Crap team collaborated with the rangoli making competition to give it their own touch.",
+		"description": "To heed to the Diwali rituals: The Scrap Crap team collaborated with the rangoli making competition to give it their own touch. The competition was between classes 9-10. They were provided with a surprise waste material that was to be incorporated in the rangoli. This activity aims to help students realize another method of Recycling waste in a creative way. The material was distributed through a lucky draw basis and handed over to the class teacher. ",
+		"images": [ "rangoli.jpeg", "rangoli2.jpeg", "rangoli3.jpeg" ] 
+	},
+
+	{
+		"name": "Photo Booth",
+		"sdesc": "Setup a photo booth in the school during an interschool competition, Dhanajay Mohan",
+		"description": "The Scrap Crap team had setup a photo booth in the school during an interschool competition, Dhanajay Mohan. The photo booth and the props to go with it were made out of waste material. The photo booth saw active participation from all the students. ",
+		"images": [ "photobooth.jpeg", "photobooth2.jpeg", "photobooth3.jpeg", "photobooth4.jpeg" ] 
+	},
+
+	{
+		"name": "Paper Collection",
+		"sdesc": "Paper Collection is an effort to segregate the paper waste from other waste",
+		"description": "An effort to segregate the paper waste from other waste, The Scrap Crap team setup a separate carton to collect all the paper waste from the classes. Understanding the amount of paper waste needs to be reduced the ScrapCrap team appointed a monitor in each class to ensure proper disposal of paper waste in the carton and submission of it to the team room.",
+		"images": [ "papercollection.jpeg", "papercollection2.jpeg", "papercollection3.jpeg" ] 
+	},
+
+	{
+		"name": "Dussehra",
+		"sdesc": "A step to start our survey in different localaties in Delhi/NCR. ",
+		"description": "A step to start our survey in different localaties in Delhi/NCR. This dusshera , the scrapcrap team went to dusshera celebration in sector-39. To celebrate the triumph over evil and to introduce our initiative to a larger crowd outside our school. ",
+		"images": [ "dussehra.jpeg", "dussehra2.jpeg", "dussehra3.jpeg" ]
+	},
+	{
+		"name": "Trash Scavenger Hunt",
+		"sdesc": "An activity to make waste collection more exciting and fun for the younger generation. ",
+		"description": "An activity to make waste collection more exciting and fun for the younger generation. This activity was an inter house competition. A team of 4 from each house was provided with a document. The document listed a few items that could be located in the canteen area after break. To make it the competition more interesting, the team were required to collect specific items of their house colour. The activity saw active participation. And was appreciated by the students. ",
+		"images": ["Trash-Scav-Hunt.jpeg", "Trash-Scav-Hunt-2.jpeg", "Trash-Scav-Hunt-3.jpeg"]
+	},
+	{
+		"name": "Posters",
+		"sdesc": "ScrapCrap along with a team of volunteers made posters to raise awareness for our cause. ",
+		"description": "To raise awareness, ScrapCrap along with a team of volunteers made posters to raise awareness for our cause. <br>The posters were all made on used chart paper collected by our team to minimise wastage of paper. <br> The posters were inspired from cartoons like PowerPuff Girls, Batman etc.",
+		"images": ["posters.jpeg", "posters2.jpeg", "posters3.jpeg" ]
+	}
+]
